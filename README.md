@@ -1,8 +1,8 @@
 ## React Meme Generator
 
-- [Link to GitHub repo](https://github.com/anastasiia-lk/react-guest-list)
-- [Link to CodeSandbox](https://codesandbox.io/s/recursing-snow-5x881)
-- [Link to Netlify](https://priceless-pike-8d087b.netlify.app/)
+- [Link to GitHub repo](https://github.com/anastasiia-lk/react-meme-generator.git)
+- [Link to CodeSandbox](https://codesandbox.io/s/red-dream-pkfin)
+- [Link to Netlify](https://objective-nobel-83354e.netlify.app/)
 
 ### Functionalities
 
